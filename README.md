@@ -55,15 +55,6 @@ Estou começando minha jornada em segurança. Foco atual:
 - 🧪 Prática em laboratórios e CTFs (TryHackMe, Hack The Box)
 - 🔎 Introdução a pentest e análise de vulnerabilidades
 
-**Meu diferencial:** como desenvolvedor, enxergo a segurança pelos dois lados. Sei como o código é escrito e consigo pensar em como ele pode ser quebrado, o que ajuda a construir sistemas seguros desde o início (*Secure by Design*).
-
-## 🎯 Objetivos
-
-- [ ] Concluir certificação de entrada (ex.: Security+ ou eJPT)
-- [ ] Subir meus writeups de CTF aqui no GitHub
-- [ ] Aplicar boas práticas de segurança nos projetos que desenvolvo
-- [ ] Evoluir para AppSec / Pentest
-
 ---
 
 <p align="center">
