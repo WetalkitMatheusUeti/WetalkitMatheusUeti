@@ -10,11 +10,15 @@
 
 Meu nome é Matheus e eu estou dando meus primeiros passos na área da cybersegurança.
 
+Também tenho domínio de **TypeScript** e de **React Native** para aplicações mobile, usando **Expo**.
+
 ## 🚀 Fullstack
 
 **Front-end**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
