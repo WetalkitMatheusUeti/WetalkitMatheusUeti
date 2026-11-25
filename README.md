@@ -8,9 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor fullstack e trabalho na **Wetalk**, construindo aplicações do front-end ao back-end. Gosto de entender o sistema inteiro: da interface que o usuário vê até o banco de dados e a infraestrutura que sustenta tudo.
-
-Hoje estou dando os primeiros passos em **segurança da informação**, porque quem constrói software precisa saber como ele pode ser atacado e como defendê-lo.
+Meu nome é Matheus e eu estou dando meus primeiros passos na área da cybersegurança.
 
 ## 🚀 Fullstack
 
